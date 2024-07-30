@@ -9,18 +9,16 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['201020306059', 'ahmed', true],
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '201127612501',
+ pairingNumber: '201020306059',
+ nameown: 'flex',
+ nomerown: '201020306059',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'jjj',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -40,15 +38,15 @@ global.media = {
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
  akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
  wel: 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4', // gif welcome 
- bye: 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4', // gif good bye
- sound: 'https://media.vocaroo.com/mp3/1awgSZYHXP3B' // untuk menu
+ bye: 'https://chat.whatsapp.com/I9YSaFGzj77HOejpHW3nio', // gif good bye
+ sound: 'https://chat.whatsapp.com/I9YSaFGzj77HOejpHW3nio' // untuk menu
 }
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://chat.whatsapp.com/I9YSaFGzj77HOejpHW3nio',
+ sgh:  'https://chat.whatsapp.com/I9YSaFGzj77HOejpHW3nio',
+ sgc: 'https://chat.whatsapp.com/I9YSaFGzj77HOejpHW3nio'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
